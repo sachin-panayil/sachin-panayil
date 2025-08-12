@@ -44,7 +44,7 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 ### My Portfolio
 
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=sachin-panayil&repo=personal-portfolio&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/sachin-panayil/sachin-panayil)
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=sachin-panayil&repo=personal-portfolio&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://sachin-panayil.github.io/personal-portfolio/)
 
 ### Let's Connect!
 
