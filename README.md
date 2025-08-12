@@ -17,7 +17,9 @@
   
   <!-- Profile Views Counter -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=sachin-panayil&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sachin-panayil&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/sachin-panayil?style=flat-square&color=58a6ff&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Location-New%20York-red?style=flat-square" alt="Years Badge" />
   </p>
 </div>
 
