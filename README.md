@@ -16,14 +16,14 @@
 
 ### Hey, I'm Sachin!
 
-I'm a Full Stack & iOS Engineer. With great software comes great responsbility. 
+Developer and engineer focused mainly on full stack and iOS native. 
 
 ### What I'm Up To
 
 - Software Engineer at the Digital Services at Centers for Medicare & Medicaid, building open source tools for the Open Source Program Office
 - Currently Building
    - Open source tools for Centers for Medicare & Medicaid    
-   - 100% free and open source help desk for GitHub organizations
+   - Some web tools
    - Some iOS apps
 
 ### My Portfolio
