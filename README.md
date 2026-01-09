@@ -28,7 +28,7 @@ Developer and engineer focused mainly on full stack and iOS native.
 
 ### My Portfolio
 
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=sachin-panayil&repo=personal-portfolio&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://sachin-panayil.github.io/personal-portfolio/)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sachin-panayil.github.io/personal-portfolio/)
 
 ### Let's Connect!
 
@@ -70,9 +70,6 @@ Feel free to reach out if you want to collaborate on a project, need help with s
 <div align="center">
   <!-- GitHub Streak Stats -->
   <img width="49%" height="195px" src="https://github-readme-streak-stats-eight.vercel.app/?user=sachin-panayil&theme=transparent&exclude_days=Sun%2CSat&hide_border=true" alt="GitHub Streak" />
-  
-  <!-- Most Used Languages -->
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-panayil&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
   
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-panayil&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=0d1117&area=true&hide_border=true" alt="Activity Graph" />
