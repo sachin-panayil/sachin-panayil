@@ -1,21 +1,20 @@
 # <!-- GitHub Profile README -->
 
 <!-- About Section -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-### Hey, I'm Sachin!
+## Hey, I'm Sachin!
 
-Developer and engineer focused mainly on full stack and iOS native. 
+Software engineer focused mainly on full stack and iOS native. 
 
 ### What I'm Up To
 
-- Software Engineer at the Digital Services at Centers for Medicare & Medicaid, building open source tools for the Open Source Program Office
-- Currently Building
-   - Open source tools for Centers for Medicare & Medicaid    
-   - Some web tools
-   - Some iOS apps
+- Software Engineering at the Digital Services at Centers for Medicare & Medicaid, building open source tools for the Open Source Program Office and the National Provider Directory
 
-### My Portfolio
+- Currently Building 
+   - Some web tools...
+   - Some iOS apps...
+
+### Portfolio Link
 
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sachin-panayil.github.io/personal-portfolio/)
 
@@ -32,7 +31,6 @@ Feel free to reach out if you want to collaborate on a project, need help with s
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-DC382D?style=for-the-badge&logo=rust&logoColor=white)
@@ -46,8 +44,6 @@ Feel free to reach out if you want to collaborate on a project, need help with s
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-007ACC?style=for-the-badge&logo=Jenkins&logoColor=white)
 
 </div>
 
