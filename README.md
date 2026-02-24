@@ -1,16 +1,5 @@
 # <!-- GitHub Profile README -->
 
-<div align="center">
-  
-  <!-- Animated Wave -->
-  ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=header&fontSize=0)
-  
-  <!-- Name with Gradient Effect -->
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Sachin+Panayil;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
-  
-</div>
-
 <!-- About Section -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
@@ -70,16 +59,6 @@ Feel free to reach out if you want to collaborate on a project, need help with s
 <div align="center">
   <!-- GitHub Streak Stats -->
   <img width="49%" height="195px" src="https://github-readme-streak-stats-eight.vercel.app/?user=sachin-panayil&theme=transparent&exclude_days=Sun%2CSat&hide_border=true" alt="GitHub Streak" />
-  
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin-panayil&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=0d1117&area=true&hide_border=true" alt="Activity Graph" />
-  
+
 </div>
 
-<!-- Aligned Center -->
-<div align="center">
-
-  <!-- Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&fontSize=0" />
-  
-</div>
