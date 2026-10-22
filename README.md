@@ -5,6 +5,7 @@ Full-stack and native iOS engineer. By day I build open source health tech at CM
 ### Now
 - **CMS, Open Source Program Office**: Dope open source tools ([DSACMS](https://github.com/DSACMS))
 - **[WindowSeat](https://github.com/sachin-panayil/WindowSeat)**: Helps you pick the best seat on the plane for the most scenic views
+- **Repp:** Fully local gym logger _(coming soon!)_
 
 ### Tools I reach for
 [![Skills](https://skillicons.dev/icons?i=swift,ts,bun,python,django,aws,firebase)](https://skillicons.dev)
